@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=MSP430FR2355TPT
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=48
+Version=2.1
+Released=2019-03-05 07:12:23
+Downloaded=2026-02-24 10:20:27
+3D=Y

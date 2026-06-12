@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "THB001P"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "THB001P")
+        (spec "default")
+    )
+)

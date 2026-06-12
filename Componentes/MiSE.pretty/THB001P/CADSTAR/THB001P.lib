@@ -1,0 +1,17 @@
+.THB001P :1 ;THUMBSTICK, 0.05A, 12VDC, 2 AXIS, PCB; No. of Axes:2; Track Resistance:10kohm; Supply Voltage Max:-; No. of Switch Positions:-; Contact Current AC Max:-; Contact Voltage AC Max:50V; Rotation Electrical Angle:36
+THB001P
+*STM S
+*NGS
+*PNM 1=1 2=2 3=3 4=11 5=12 6=13 7=A1 8=B1 9=C1 10=D1 11=MH1 12=MH2 13=MH3 14=MH4
+*PLB 1="1" 2="2" 3="3" 4="1_" 5="2_" 6="3_" 7="COM_1" 8="COM_2" 9="NO_1" 10="NO_2" 11="MH1" 12="MH2" 13="MH3" 14="MH4"
+*MXP 14
+*DFN THB001P
+~!Mouser Part Number (611-THB001P)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/CK/THB001P?qs=OlC7AqGiEDlMaVQ%2FEBrivA%3D%3D)
+~!Manufacturer_Name (C & K COMPONENTS)
+~!Manufacturer_Part_Number (THB001P)
+~!Link Datasheet (https://www.ckswitches.com/media/2873/thb.pdf)
+~!Height (19.85mm)
+~!3D_Model (THB001P)
+THB001P
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 

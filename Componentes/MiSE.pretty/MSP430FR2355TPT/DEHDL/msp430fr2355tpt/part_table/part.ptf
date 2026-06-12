@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MSP430FR2355TPT'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "MSP430FR2355TPT" (!) = "", "QFP50P900X900X160-48N", "Quad Flat Packages", "595-MSP430FR2355TPT", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/MSP430FR2355TPT?qs=gTYE2QTfZfTjQOKK%2F%2Fw59A%3D%3D", "16-bit Microcontrollers - MCU 24MHz 105C ULP Microcontroller With 32 KB FRAM, 4 KB SRAM, 44 IO, 12-bit ADC, 12-bit DACs, OpAmp/PGA 48-LQFP -40 to 105", "https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0029426.pdf", "1.6 mm"
+END_PART
+
+END.
